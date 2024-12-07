@@ -1,0 +1,7 @@
+.env
+credentials/token.json
+/audio/*
+!/audio/.gitkeep
+credentials/service_acc.json
+node_modules
+.DS_Store
